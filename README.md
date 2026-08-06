@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/kashish17890/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kashish17890/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kashish17890/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
