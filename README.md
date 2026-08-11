@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/kashish17890/Leetcode/tree/master/0554-brick-wall) |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kashish17890/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish17890/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/kashish17890/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3731-find-missing-elements](https://github.com/kashish17890/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -18,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0554-brick-wall](https://github.com/kashish17890/Leetcode/tree/master/0554-brick-wall) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kashish17890/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish17890/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/kashish17890/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kashish17890/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish17890/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/kashish17890/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3731-find-missing-elements](https://github.com/kashish17890/Leetcode/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
