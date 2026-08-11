@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kashish17890/Leetcode/tree/master/0053-maximum-subarray) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashish17890/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0554-brick-wall](https://github.com/kashish17890/Leetcode/tree/master/0554-brick-wall) |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kashish17890/Leetcode/tree/master/0053-maximum-subarray) |
 | [0233-number-of-digit-one](https://github.com/kashish17890/Leetcode/tree/master/0233-number-of-digit-one) |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kashish17890/Leetcode/tree/master/1510-stone-game-iv) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kashish17890/Leetcode/tree/master/1510-stone-game-iv) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kashish17890/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
