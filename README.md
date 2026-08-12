@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/kashish17890/Leetcode/tree/master/0554-brick-wall) |
 | [0746-min-cost-climbing-stairs](https://github.com/kashish17890/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kashish17890/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashish17890/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish17890/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kashish17890/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish17890/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/kashish17890/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3731-find-missing-elements](https://github.com/kashish17890/Leetcode/tree/master/3731-find-missing-elements) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kashish17890/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/kashish17890/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashish17890/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashish17890/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kashish17890/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## String
 |  |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Game Theory
 |  |
 | ------- |
@@ -142,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashish17890/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
