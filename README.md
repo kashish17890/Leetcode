@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/kashish17890/Leetcode/tree/master/1323-maximum-69-number) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kashish17890/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/kashish17890/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/kashish17890/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashish17890/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
+| [1323-maximum-69-number](https://github.com/kashish17890/Leetcode/tree/master/1323-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/kashish17890/Leetcode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kashish17890/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashish17890/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
