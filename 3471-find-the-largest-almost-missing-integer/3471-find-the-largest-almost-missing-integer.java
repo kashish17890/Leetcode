@@ -1,39 +1,57 @@
-public class Solution {
+class Solution {
     public int largestInteger(int[] nums, int k) {
         int n = nums.length;
-        
-        // This tracks: Number -> How many subarrays it appears in
-        Map<Integer, Integer> subarrayCounts = new HashMap<>();
-        
-        // 1. Move the window across the array
-        for (int i = 0; i <= n - k; i++) {
-            
-            // Temporary set to avoid counting duplicate numbers inside the SAME window
-            Set<Integer> uniqueInWindow = new HashSet<>();
-            
-            // 2. Collect all numbers inside the current window
-            for (int j = i; j < i + k; j++) {
-                uniqueInWindow.add(nums[j]);
+
+        if (k == 1) {
+            HashMap<Integer, Integer> map = new HashMap<>();
+
+            for (int num : nums) {
+                map.put(num, map.getOrDefault(num, 0) + 1);
             }
-            
-            // 3. Update our global hashmap for each unique number found in this window
-            for (int num : uniqueInWindow) {
-                int currentCount = subarrayCounts.getOrDefault(num, 0);
-                subarrayCounts.put(num, currentCount + 1);
+
+            int ans = -1;
+
+            for (int num : map.keySet()) {
+                if (map.get(num) == 1) {
+                    ans = Math.max(ans, num);
+                }
+            }
+
+            return ans;
+        }
+
+        if (k == n) {
+            int ans = 0;
+
+            for (int num : nums) {
+                ans = Math.max(ans, num);
+            }
+
+            return ans;
+        }
+
+        int ans = -1;
+
+        if (isUnique(nums, nums[0])) {
+            ans = Math.max(ans, nums[0]);
+        }
+
+        if (isUnique(nums, nums[n - 1])) {
+            ans = Math.max(ans, nums[n - 1]);
+        }
+
+        return ans;
+    }
+
+    private boolean isUnique(int[] nums, int target) {
+        int count = 0;
+
+        for (int num : nums) {
+            if (num == target) {
+                count++;
             }
         }
-        
-        // 4. Find the largest number that appeared in EXACTLY 1 subarray
-        int largestResult = -1;
-        for (int num : subarrayCounts.keySet()) {
-            int appearances = subarrayCounts.get(num);
-            
-            if (appearances == 1) {
-                largestResult = Math.max(largestResult, num);
-            }
-        }
-        
-        return largestResult;
+
+        return count == 1;
     }
 }
-
