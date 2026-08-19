@@ -1,53 +1,44 @@
 class Solution {
-    public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
-        HashMap<Integer, boolean[]> map = new HashMap<>();
+    public int maxNumberOfFamilies(int n, int[][] arr) {
+        HashMap<Integer,boolean[]> map=new HashMap<>();
 
-        for (int i = 0; i < reservedSeats.length; i++) {
-            int row = reservedSeats[i][0];
-            int seat = reservedSeats[i][1];
+        for(int i=0;i<arr.length;i++){
+            int row=arr[i][0];
+            int seat=arr[i][1];
 
-            if (!map.containsKey(row)) {
-                map.put(row, new boolean[11]);
+            if(!map.containsKey(row)){
+                map.put(row,new boolean[11]);
             }
-
-            map.get(row)[seat] = true;
+            map.get(row)[seat]=true;
         }
+        int ans=(n-map.size())*2;
 
-        int ans = (n - map.size()) * 2;
+        for(boolean[] seats:map.values()){
+            boolean left=true;
+            boolean mid=true;
+            boolean right=true;
 
-        for (boolean[] seats : map.values()) {
-            boolean left = true;
-            boolean middle = true;
-            boolean right = true;
-
-            for (int i = 2; i <= 5; i++) {
-                if (seats[i]) {
-                    left = false;
+            for(int reserve=2;reserve<=5;reserve++){
+                if(seats[reserve]){
+                    left=false;
+                    break;
+            }
+            }
+            for(int reserve=4;reserve<=7;reserve++){
+                if(seats[reserve]){
+                    mid=false;
                     break;
                 }
             }
-
-            for (int i = 4; i <= 7; i++) {
-                if (seats[i]) {
-                    middle = false;
+            for(int reserve=6;reserve<=9;reserve++){
+                if(seats[reserve]){
+                    right=false;
                     break;
                 }
             }
-
-            for (int i = 6; i <= 9; i++) {
-                if (seats[i]) {
-                    right = false;
-                    break;
-                }
-            }
-
-            if (left && right) {
-                ans += 2;
-            } else if (left || middle || right) {
-                ans++;
-            }
+            if(left && right) ans+=2;
+            else if(left || right || mid) ans++;
         }
-
         return ans;
     }
 }
