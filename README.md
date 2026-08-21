@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/kashish17890/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/kashish17890/Leetcode/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashish17890/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kashish17890/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/kashish17890/Leetcode/tree/master/1323-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/kashish17890/Leetcode/tree/master/1510-stone-game-iv) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashish17890/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kashish17890/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kashish17890/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kashish17890/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kashish17890/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -232,10 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kashish17890/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish17890/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kashish17890/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish17890/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prime Factorization
 |  |
