@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kashish17890/Leetcode/tree/master/0009-palindrome-number) |
 | [0233-number-of-digit-one](https://github.com/kashish17890/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/kashish17890/Leetcode/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashish17890/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/kashish17890/Leetcode/tree/master/1323-maximum-69-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kashish17890/Leetcode/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kashish17890/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashish17890/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kashish17890/Leetcode/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kashish17890/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
