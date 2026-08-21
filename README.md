@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kashish17890/Leetcode/tree/master/0009-palindrome-number) |
 | [0233-number-of-digit-one](https://github.com/kashish17890/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashish17890/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
