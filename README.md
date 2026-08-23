@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/kashish17890/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kashish17890/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kashish17890/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kashish17890/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashish17890/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish17890/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kashish17890/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish17890/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kashish17890/Leetcode/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kashish17890/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kashish17890/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kashish17890/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kashish17890/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashish17890/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kashish17890/Leetcode/tree/master/0258-add-digits) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kashish17890/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kashish17890/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/kashish17890/Leetcode/tree/master/1952-three-divisors) |
+## Matrix
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kashish17890/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
