@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/kashish17890/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kashish17890/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1927-sum-game](https://github.com/kashish17890/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kashish17890/Leetcode/tree/master/2029-stone-game-ix) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/kashish17890/Leetcode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashish17890/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/kashish17890/Leetcode/tree/master/1323-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/kashish17890/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kashish17890/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/kashish17890/Leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/kashish17890/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish17890/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kashish17890/Leetcode/tree/master/2029-stone-game-ix) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashish17890/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kashish17890/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kashish17890/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1927-sum-game](https://github.com/kashish17890/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kashish17890/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kashish17890/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashish17890/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kashish17890/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kashish17890/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/kashish17890/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kashish17890/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
