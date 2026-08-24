@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kashish17890/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kashish17890/Leetcode/tree/master/0009-palindrome-number) |
 | [0233-number-of-digit-one](https://github.com/kashish17890/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/kashish17890/Leetcode/tree/master/0258-add-digits) |
