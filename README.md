@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/kashish17890/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/kashish17890/Leetcode/tree/master/1563-stone-game-v) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/kashish17890/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish17890/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kashish17890/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kashish17890/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/kashish17890/Leetcode/tree/master/1323-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/kashish17890/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kashish17890/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kashish17890/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kashish17890/Leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/kashish17890/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish17890/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kashish17890/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kashish17890/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kashish17890/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashish17890/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -164,18 +167,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kashish17890/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kashish17890/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kashish17890/Leetcode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/kashish17890/Leetcode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kashish17890/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kashish17890/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kashish17890/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kashish17890/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kashish17890/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -183,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kashish17890/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kashish17890/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kashish17890/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kashish17890/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
