@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kashish17890/Leetcode/tree/master/0053-maximum-subarray) |
+| [0204-count-primes](https://github.com/kashish17890/Leetcode/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashish17890/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0554-brick-wall](https://github.com/kashish17890/Leetcode/tree/master/0554-brick-wall) |
 | [0706-design-hashmap](https://github.com/kashish17890/Leetcode/tree/master/0706-design-hashmap) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kashish17890/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kashish17890/Leetcode/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/kashish17890/Leetcode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/kashish17890/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/kashish17890/Leetcode/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashish17890/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kashish17890/Leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/kashish17890/Leetcode/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kashish17890/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kashish17890/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kashish17890/Leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/kashish17890/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish17890/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -265,9 +269,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kashish17890/Leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/kashish17890/Leetcode/tree/master/1952-three-divisors) |
 ## Matrix
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kashish17890/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kashish17890/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kashish17890/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
