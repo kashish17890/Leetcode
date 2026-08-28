@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kashish17890/Leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/kashish17890/Leetcode/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kashish17890/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kashish17890/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kashish17890/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashish17890/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashish17890/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kashish17890/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish17890/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/kashish17890/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashish17890/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kashish17890/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
