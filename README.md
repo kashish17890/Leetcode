@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kashish17890/Leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/kashish17890/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kashish17890/Leetcode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashish17890/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
