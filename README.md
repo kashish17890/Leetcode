@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kashish17890/Leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/kashish17890/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/kashish17890/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/kashish17890/Leetcode/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish17890/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kashish17890/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kashish17890/Leetcode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kashish17890/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
