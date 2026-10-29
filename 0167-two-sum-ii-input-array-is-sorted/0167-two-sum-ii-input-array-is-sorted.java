@@ -1,20 +1,15 @@
 class Solution {
-    public int[] twoSum(int[] numbers, int target) {
-        int left = 0;
-        int right = numbers.length - 1;
-        
-        while (left < right) {
-            int sum = numbers[left] + numbers[right];
-            
-            if (sum == target) {
-                return new int[] { left + 1, right + 1 };
-            } else if (sum < target) {
-                left++;
-            } else {
-                right--;
-            }
-        }
-        
-        return new int[0];
+    public int[] twoSum(int[] arr, int k) {
+        int[] ans={-1,-1};
+       HashMap<Integer,Integer> map=new HashMap<>();
+       for(int i=0;i<arr.length;i++){
+           if(map.containsKey(k-arr[i])){
+            ans[0]=map.get(k-arr[i])+1;
+            ans[1]=i+1;
+            return ans;
+           }
+           map.put(arr[i],i);
+       } 
+       return ans;
     }
 }
