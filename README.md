@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kashish17890/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/kashish17890/Leetcode/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish17890/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kashish17890/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kashish17890/Leetcode/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashish17890/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0554-brick-wall](https://github.com/kashish17890/Leetcode/tree/master/0554-brick-wall) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kashish17890/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kashish17890/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/kashish17890/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kashish17890/Leetcode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/kashish17890/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/kashish17890/Leetcode/tree/master/0258-add-digits) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish17890/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kashish17890/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kashish17890/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kashish17890/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kashish17890/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
