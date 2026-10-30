@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashish17890/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kashish17890/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kashish17890/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kashish17890/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashish17890/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kashish17890/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/kashish17890/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/kashish17890/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kashish17890/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish17890/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kashish17890/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
