@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kashish17890/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0554-brick-wall](https://github.com/kashish17890/Leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/kashish17890/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/kashish17890/Leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/kashish17890/Leetcode/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/kashish17890/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0911-online-election](https://github.com/kashish17890/Leetcode/tree/master/0911-online-election) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/kashish17890/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/kashish17890/Leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/kashish17890/Leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/kashish17890/Leetcode/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/kashish17890/Leetcode/tree/master/0706-design-hashmap) |
 | [0911-online-election](https://github.com/kashish17890/Leetcode/tree/master/0911-online-election) |
 ## Hash Function
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kashish17890/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/kashish17890/Leetcode/tree/master/0622-design-circular-queue) |
 ## Union-Find
 |  |
 | ------- |
