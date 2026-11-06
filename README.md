@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kashish17890/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kashish17890/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashish17890/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kashish17890/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0554-brick-wall](https://github.com/kashish17890/Leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/kashish17890/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/kashish17890/Leetcode/tree/master/0706-design-hashmap) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kashish17890/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kashish17890/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kashish17890/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kashish17890/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kashish17890/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kashish17890/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/kashish17890/Leetcode/tree/master/1927-sum-game) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kashish17890/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/kashish17890/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kashish17890/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kashish17890/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kashish17890/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
