@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/kashish17890/Leetcode/tree/master/1563-stone-game-v) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kashish17890/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/kashish17890/Leetcode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/kashish17890/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kashish17890/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kashish17890/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kashish17890/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kashish17890/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1882-process-tasks-using-servers](https://github.com/kashish17890/Leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Monotonic Queue
 |  |
 | ------- |
